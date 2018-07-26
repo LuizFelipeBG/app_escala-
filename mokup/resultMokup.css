@@ -1,7 +1,19 @@
 body{
     background-image: url('./images.jpeg')   ;
 }
-.imgCalendar{
-    width: 40%;
-    right: 50%;
+.titlePage{
+    text-align: center; 
 }
+.description{
+    width: 40%;
+    height: 40%;
+    margin-top:-37%;
+    border: outset;
+    padding:25px;
+}
+.imgCalendar{
+    width: 50%;
+    height: 60%;
+    margin-left:45%;
+}
+
